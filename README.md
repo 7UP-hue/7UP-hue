@@ -11,7 +11,8 @@
 
 ### Statistics
 ![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=jolly&show_icons=true&hide=issue?count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![7UP-hue's GitHub stats](https://github-readme-repo.vercel.app/api?username=7UP-hue&theme=jolly&show_icons=true&hide=issue?count_private=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **7UP-hue/7UP-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
