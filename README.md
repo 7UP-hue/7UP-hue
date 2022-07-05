@@ -10,8 +10,7 @@
 ![img](https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
 
 ### Statistics
-![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=jolly&show_icons=true&hide=stars?count_private=true)
-![7UP-hue's GitHub repo card](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=jolly&show_icons=true)
+![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=jolly&show_icons=true&hide=issue?count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
