@@ -1,6 +1,3 @@
-<div>
-  <div style="float: right">
-
 ### Hi there 👋
 🌱 I am now studying at Hunan University of Science and Technology
 
@@ -11,12 +8,7 @@
 ![img](https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
 ![img](https://camo.githubusercontent.com/7d40774762a6559831664bbeb1b3d4e6b55ca155467da23c89cf8207cb063d64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c61742d737175617265266c6f676f3d5675652e6a73266c6f676f436f6c6f723d7768697465)
 ![img](https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
-  </div>
-  <div style="float: right">
-    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="200px">
-  </div>
-</div>
-
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="200px">
 ### Statistics
 ![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=buefy&show_icons=true&hide=issue?count_private=true)
 
