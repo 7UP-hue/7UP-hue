@@ -11,7 +11,8 @@
 
 ### Statistics
 ![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=buefy&show_icons=true&hide=issue?count_private=true)
-![img](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true){:height="200px"}
+![test img size](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true){:height="200px"}
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="height: 200px">
 <!--
 **7UP-hue/7UP-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
