@@ -17,9 +17,6 @@
   </div>
 </div>
 
-### Statistics
-![7UP-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=7UP-hue&theme=buefy&show_icons=true&hide=issue?count_private=true)
-
 <!--
 **7UP-hue/7UP-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
